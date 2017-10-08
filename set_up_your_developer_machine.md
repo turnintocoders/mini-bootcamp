@@ -8,12 +8,12 @@
 
 ## Schedule
 
-Monday 10AM workshop "Learn some command line"
-Monday 3PM workshop "Install developer toolbox"
-Tuesday 10AM workshop "Familiarise with a web server"
-Tuesday afternoon, Wednesday all day and Thursday morning: project
-Thursday 3PM review of the projects and feedback
-Friday morning more work on projects based on the review of the previous day
+Monday 10AM workshop "Learn some command line"  
+Monday 3PM workshop "Install developer toolbox"  
+Tuesday 10AM workshop "Familiarise with a web server"  
+Tuesday afternoon, Wednesday all day and Thursday morning: project  
+Thursday 3PM review of the projects and feedback  
+Friday morning more work on projects based on the review of the previous day  
 Friday 3PM retrospective of the week, presentation to the other teams, meet someone
 
 ## Learning outcomes
