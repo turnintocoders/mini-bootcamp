@@ -4,6 +4,10 @@ The mini-bootcamps are a way to finish the bootcamp prerequisites or concentrate
 
 We are exploring different mini-bootcamps, that might evolve in the near future.
 
+  ## The mini bootcamp is a opportunity for learn informatics skills and found a job immediatly
+               
+  ```
+
 
 ## Work on the bootcamp prerequisites
 
